@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: radial_uv 2
+  m_Shader: {fileID: 4800000, guid: d3df3eb3ebeb3d54ca0900dadf2ce6cb, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _NOISEMASK_ON _USETEX2COLOR_ON _USE_TEX_ON
+    _USE_TWOTEX_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Main_Tex:
+        m_Texture: {fileID: 2800000, guid: cff7206c59348294ba320eeffc8e5ec1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Main_Tex2:
+        m_Texture: {fileID: 2800000, guid: cdeac6f84093f7a4aad78514aa3d26ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Tex:
+        m_Texture: {fileID: 2800000, guid: a9074b7bb3bed18479593708674621fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Tex:
+        m_Texture: {fileID: 2800000, guid: bdbe94d7623ec3940947b62544306f1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise_Tex2:
+        m_Texture: {fileID: 2800000, guid: bdbe94d7623ec3940947b62544306f1c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture0:
+        m_Texture: {fileID: 2800000, guid: 578b893799655a044b7a654d2445e849, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture1:
+        m_Texture: {fileID: 2800000, guid: 9fbef4b79ca3b784ba023cb1331520d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: c5c0dba241e28fe48b3e28309b90d707, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bias: 0
+    - _Cutoff: 0.5
+    - _Is_P: 0
+    - _Is_Particle: 0
+    - _Lerp_power: 0.5
+    - _Noise2_Speedx: 0
+    - _Noise2_Speedy: -0.1
+    - _Noise2_Y: 0.15
+    - _Noise2_power: 0.25
+    - _Noise2mask: 1
+    - _Noise2x: 0.5
+    - _NoiseMask: 1
+    - _NoiseSpeed_X: 0
+    - _Noise_Power: 0.15
+    - _Noise_Speed_Y: -0.25
+    - _Noise_U: 2
+    - _Noise_V: 0.5
+    - _Scale: 1
+    - _Tex1_power: 1.5
+    - _Tex2X: 2
+    - _Tex2_power: 1
+    - _Tex2color: 1
+    - _Tex2speedx: 0.01
+    - _Tex2speedy: -0.1
+    - _Tex2y: 3
+    - _Tex_Speed_X: 0
+    - _Tex_Speed_Y: -0.25
+    - _Tex_U: 2
+    - _Tex_V: 1
+    - _Texcolor: 1
+    - _ToggleSwitch0: 0
+    - _Use_Tex: 1
+    - __dirty: 0
+    - _useTex2color: 1
+    - _useTexcolor: 1
+    - _use_twoTex: 1
+    m_Colors:
+    - _Color0: {r: 1, g: 0.79884464, b: 0, a: 0}
+    - _Color1: {r: 1, g: 0, b: 0, a: 0}
+    - _Color2: {r: 0.16316223, g: 1, b: 0, a: 0}
+    - _In_color: {r: 1.3367419, g: 2.052684, b: 2.2671144, a: 0}
+    - _Te: {r: 1, g: 0, b: 0, a: 0}
+    - _Tex1_color: {r: 0.44313726, g: 0.6039216, b: 0.7490196, a: 0}
+    - _Tex2_color: {r: 0.3443396, g: 0.7741612, b: 1, a: 0}
+    - _out_color: {r: 0.51311606, g: 0.23113209, b: 1, a: 0}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: light_tree
+  m_Shader: {fileID: 4800000, guid: b2bf5429509f44e409073dd67082ec09, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3005
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 2ea9d207a8146e9458bef3b5a0428d32, type: 3}
+        m_Scale: {x: 3.04, y: 3.09}
+        m_Offset: {x: -0.18, y: -0.03}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Float0: 0.46
+    - _Tex_Power: 2.5
+    - __dirty: 0
+    - _mix_power: 0.5
+    m_Colors:
+    - _Color0: {r: 0, g: 0.090352476, b: 0.38679248, a: 0}
+    - _Color1: {r: 0.3529412, g: 0.504737, b: 0.6509804, a: 0}
+    - _Color2: {r: 0.97525954, g: 0.97525954, b: 0.97525954, a: 0}

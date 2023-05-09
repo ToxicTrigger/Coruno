@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: swap_4
+  m_Shader: {fileID: 4800000, guid: 569c70418bdad0e409ad96bf3b43e137, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Down:
+        m_Texture: {fileID: 2800000, guid: 5e0e73837558a7b4ebe4cd340bba1239, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: df1a73877e6e817489bcdec99d204d81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 2e61f16b373493a4ca497f33f30d034e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 26c557c70781099418ab8b10f0aa399a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 2800000, guid: 31890676c5b178840848afa665cb5a2f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample4:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample5:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Up:
+        m_Texture: {fileID: 2800000, guid: 7b312375fd9a75848a43d6f4fff42753, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 26c557c70781099418ab8b10f0aa399a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _F_blur: 1
+    - _Float0: 0
+    - _Particle: 0
+    - _Power: -3
+    - _ToggleSwitch0: 1
+    - __dirty: 0
+    - _particle1: 0
+    - _ripplepower: 0
+    - _toggle_tex: 0
+    - _toggletex: 0
+    m_Colors:
+    - _Color0: {r: 1, g: 1, b: 1, a: 0}
+    - _Vector0: {r: 0.3, g: 0.3, b: 0, a: 0}
+    - _Vector1: {r: 0.345, g: 0.33, b: 0, a: 0}
+    - _Vector3: {r: 3, g: 3, b: 0, a: 0}
+    - _Vector4: {r: -1, g: -1, b: 0, a: 0}

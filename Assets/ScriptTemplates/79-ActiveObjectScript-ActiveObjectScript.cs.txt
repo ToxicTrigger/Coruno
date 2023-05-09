@@ -1,0 +1,55 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Photon.Pun;
+using Photon.Realtime;
+
+public class #SCRIPTNAME# : impl_handle
+{
+    new void Start()
+    {
+        base.Start();
+    }
+    new void Update()
+    {
+        base.Update();
+    }
+    public override void On()
+    {
+        base.On();
+    }
+    // 구현 가능 함수 On(), Off(), InvokeOn(), InvokeOff() 및 Mono 콜백 함수들
+
+
+
+    //플레이어가 호출함 플레이어가 작동하기 적합한 상태인지 판정 성공했다면 
+    //myActive를 true 로 만들어주면 InvokeOn으로 넘어감 자신의 GameObject를 return해줘야함 실패라면 null을 return
+    public override GameObject Judgment()
+    {
+        if (/*조건문*/true)
+        {
+            PhotonNetwork.RaiseEvent(ActivationEvCode, true, new RaiseEventOptions { Receivers = ReceiverGroup.Others }, new ExitGames.Client.Photon.SendOptions { Reliability = true });
+            myActive = true;
+            return this.gameObject;
+        }
+        return base.Judgment();
+    }
+
+	//플레이어가 Active상태를 해제 하려고 할때 호출하는 함수
+    public override void ActiveClear()
+    {
+        base.ActiveClear();
+    }
+
+	//클리어 상태일때 로드
+	public override void ApplyLoad()
+    {
+        if (isclear) {} // 클리어일때
+
+        else {}// 미클리어일때
+
+		base.ApplyLoad();
+    }
+
+
+}

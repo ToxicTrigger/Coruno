@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 88722bcd8a5a7a34db04af3151aab8c7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1p_body
+    100002: 1p_bonnet
+    100004: 1p_face
+    100006: 1p_hair_00
+    100008: 1p_hair_01
+    100010: 1p_hair_02
+    100012: 1p_hair_03
+    100014: 1p_hair_04
+    100016: 1p_leg
+    100018: 1p_vest
+    100020: Bip001
+    100022: Bip001 Footsteps
+    100024: Bip001 Front hair
+    100026: Bip001 Front hair02
+    100028: Bip001 Front hair03
+    100030: Bip001 Front hairNub
+    100032: Bip001 hair L
+    100034: Bip001 hair L02
+    100036: Bip001 hair L03
+    100038: Bip001 hair L04
+    100040: Bip001 hair LNub
+    100042: Bip001 hair R
+    100044: Bip001 hair R02
+    100046: Bip001 hair R03
+    100048: Bip001 hair R04
+    100050: Bip001 hair RNub
+    100052: Bip001 hairclip L 01
+    100054: Bip001 hairclip L 01Nub
+    100056: Bip001 hairclip L 02
+    100058: Bip001 hairclip L 02Nub
+    100060: Bip001 hairclip L 03
+    100062: Bip001 hairclip L 03Nub
+    100064: Bip001 hairclip R 01
+    100066: Bip001 hairclip R 01Nub
+    100068: Bip001 hairclip R 02
+    100070: Bip001 hairclip R 02Nub
+    100072: Bip001 hairclip R 03
+    100074: Bip001 hairclip R 03Nub
+    100076: Bip001 hat 01
+    100078: Bip001 hat 01Nub
+    100080: Bip001 hat 02
+    100082: Bip001 hat 02Nub
+    100084: Bip001 hat 03
+    100086: Bip001 hat 03Nub
+    100088: Bip001 Head
+    100090: Bip001 HeadNub
+    100092: Bip001 L Calf
+    100094: Bip001 L Clavicle
+    100096: Bip001 L Finger0
+    100098: Bip001 L Finger01
+    100100: Bip001 L Finger0Nub
+    100102: Bip001 L Finger1
+    100104: Bip001 L Finger11
+    100106: Bip001 L Finger1Nub
+    100108: Bip001 L Foot
+    100110: Bip001 L Forearm
+    100112: Bip001 L Hand
+    100114: Bip001 L Thigh
+    100116: Bip001 L Toe0
+    100118: Bip001 L Toe0Nub
+    100120: Bip001 L UpperArm
+    100122: Bip001 Neck
+    100124: Bip001 Pelvis
+    100126: Bip001 R Calf
+    100128: Bip001 R Clavicle
+    100130: Bip001 R Finger0
+    100132: Bip001 R Finger01
+    100134: Bip001 R Finger0Nub
+    100136: Bip001 R Finger1
+    100138: Bip001 R Finger11
+    100140: Bip001 R Finger1Nub
+    100142: Bip001 R Foot
+    100144: Bip001 R Forearm
+    100146: Bip001 R Hand
+    100148: Bip001 R Thigh
+    100150: Bip001 R Toe0
+    100152: Bip001 R Toe0Nub
+    100154: Bip001 R UpperArm
+    100156: Bip001 skirt L 01
+    100158: Bip001 skirt L 0102
+    100160: Bip001 skirt L 01Nub
+    100162: Bip001 skirt L 02
+    100164: Bip001 skirt L 0202
+    100166: Bip001 skirt L 02Nub
+    100168: Bip001 skirt L 03
+    100170: Bip001 skirt L 0302
+    100172: Bip001 skirt L 03Nub
+    100174: Bip001 skirt R 01
+    100176: Bip001 skirt R 0102
+    100178: Bip001 skirt R 01Nub
+    100180: Bip001 skirt R 02
+    100182: Bip001 skirt R 0202
+    100184: Bip001 skirt R 02Nub
+    100186: Bip001 skirt R 03
+    100188: Bip001 skirt R 0302
+    100190: Bip001 skirt R 03Nub
+    100192: Bip001 Spine
+    100194: Bip001 Spine1
+    100196: //RootNode
+    400000: 1p_body
+    400002: 1p_bonnet
+    400004: 1p_face
+    400006: 1p_hair_00
+    400008: 1p_hair_01
+    400010: 1p_hair_02
+    400012: 1p_hair_03
+    400014: 1p_hair_04
+    400016: 1p_leg
+    400018: 1p_vest
+    400020: Bip001
+    400022: Bip001 Footsteps
+    400024: Bip001 Front hair
+    400026: Bip001 Front hair02
+    400028: Bip001 Front hair03
+    400030: Bip001 Front hairNub
+    400032: Bip001 hair L
+    400034: Bip001 hair L02
+    400036: Bip001 hair L03
+    400038: Bip001 hair L04
+    400040: Bip001 hair LNub
+    400042: Bip001 hair R
+    400044: Bip001 hair R02
+    400046: Bip001 hair R03
+    400048: Bip001 hair R04
+    400050: Bip001 hair RNub
+    400052: Bip001 hairclip L 01
+    400054: Bip001 hairclip L 01Nub
+    400056: Bip001 hairclip L 02
+    400058: Bip001 hairclip L 02Nub
+    400060: Bip001 hairclip L 03
+    400062: Bip001 hairclip L 03Nub
+    400064: Bip001 hairclip R 01
+    400066: Bip001 hairclip R 01Nub
+    400068: Bip001 hairclip R 02
+    400070: Bip001 hairclip R 02Nub
+    400072: Bip001 hairclip R 03
+    400074: Bip001 hairclip R 03Nub
+    400076: Bip001 hat 01
+    400078: Bip001 hat 01Nub
+    400080: Bip001 hat 02
+    400082: Bip001 hat 02Nub
+    400084: Bip001 hat 03
+    400086: Bip001 hat 03Nub
+    400088: Bip001 Head
+    400090: Bip001 HeadNub
+    400092: Bip001 L Calf
+    400094: Bip001 L Clavicle
+    400096: Bip001 L Finger0
+    400098: Bip001 L Finger01
+    400100: Bip001 L Finger0Nub
+    400102: Bip001 L Finger1
+    400104: Bip001 L Finger11
+    400106: Bip001 L Finger1Nub
+    400108: Bip001 L Foot
+    400110: Bip001 L Forearm
+    400112: Bip001 L Hand
+    400114: Bip001 L Thigh
+    400116: Bip001 L Toe0
+    400118: Bip001 L Toe0Nub
+    400120: Bip001 L UpperArm
+    400122: Bip001 Neck
+    400124: Bip001 Pelvis
+    400126: Bip001 R Calf
+    400128: Bip001 R Clavicle
+    400130: Bip001 R Finger0
+    400132: Bip001 R Finger01
+    400134: Bip001 R Finger0Nub
+    400136: Bip001 R Finger1
+    400138: Bip001 R Finger11
+    400140: Bip001 R Finger1Nub
+    400142: Bip001 R Foot
+    400144: Bip001 R Forearm
+    400146: Bip001 R Hand
+    400148: Bip001 R Thigh
+    400150: Bip001 R Toe0
+    400152: Bip001 R Toe0Nub
+    400154: Bip001 R UpperArm
+    400156: Bip001 skirt L 01
+    400158: Bip001 skirt L 0102
+    400160: Bip001 skirt L 01Nub
+    400162: Bip001 skirt L 02
+    400164: Bip001 skirt L 0202
+    400166: Bip001 skirt L 02Nub
+    400168: Bip001 skirt L 03
+    400170: Bip001 skirt L 0302
+    400172: Bip001 skirt L 03Nub
+    400174: Bip001 skirt R 01
+    400176: Bip001 skirt R 0102
+    400178: Bip001 skirt R 01Nub
+    400180: Bip001 skirt R 02
+    400182: Bip001 skirt R 0202
+    400184: Bip001 skirt R 02Nub
+    400186: Bip001 skirt R 03
+    400188: Bip001 skirt R 0302
+    400190: Bip001 skirt R 03Nub
+    400192: Bip001 Spine
+    400194: Bip001 Spine1
+    400196: //RootNode
+    2100000: 'Material #93'
+    2100002: 'Material #90'
+    2100004: 'Material #92'
+    2100006: 'Material #91'
+    2100008: 'Material #89'
+    4300000: 1p_body
+    4300002: 1p_vest
+    4300004: 1p_leg
+    4300006: 1p_hair_04
+    4300008: 1p_hair_03
+    4300010: 1p_hair_02
+    4300012: 1p_hair_01
+    4300014: 1p_hair_00
+    4300016: 1p_face
+    4300018: 1p_bonnet
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 1p_body
+    13700002: 1p_bonnet
+    13700004: 1p_face
+    13700006: 1p_hair_00
+    13700008: 1p_hair_01
+    13700010: 1p_hair_02
+    13700012: 1p_hair_03
+    13700014: 1p_hair_04
+    13700016: 1p_leg
+    13700018: 1p_vest
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

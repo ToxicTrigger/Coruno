@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 23b406f5f65d65247a8d5d6ff589df27
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 2p_body
+    100002: 2p_Cloak
+    100004: 2p_face
+    100006: 2p_feather
+    100008: 2p_fur
+    100010: 2p_hair_00
+    100012: 2p_hair_01
+    100014: 2p_hair_02
+    100016: 2p_hair_03
+    100018: 2p_hair_04
+    100020: 2p_leg
+    100022: Bip001
+    100024: Bip001 Feather L
+    100026: Bip001 Feather L02
+    100028: Bip001 Feather LNub
+    100030: Bip001 Feather R
+    100032: Bip001 Feather R02
+    100034: Bip001 Feather RNub
+    100036: Bip001 Footsteps
+    100038: Bip001 Front hair
+    100040: Bip001 Front hair02
+    100042: Bip001 Front hair03
+    100044: Bip001 Front hairNub
+    100046: Bip001 hair L
+    100048: Bip001 hair L02
+    100050: Bip001 hair L03
+    100052: Bip001 hair L04
+    100054: Bip001 hair LNub
+    100056: Bip001 hair R
+    100058: Bip001 hair R02
+    100060: Bip001 hair R03
+    100062: Bip001 hair R04
+    100064: Bip001 hair RNub
+    100066: Bip001 Head
+    100068: Bip001 HeadNub
+    100070: Bip001 L Calf
+    100072: Bip001 L Clavicle
+    100074: Bip001 L Finger0
+    100076: Bip001 L Finger01
+    100078: Bip001 L Finger0Nub
+    100080: Bip001 L Finger1
+    100082: Bip001 L Finger11
+    100084: Bip001 L Finger1Nub
+    100086: Bip001 L Foot
+    100088: Bip001 L Forearm
+    100090: Bip001 L Hand
+    100092: Bip001 L Thigh
+    100094: Bip001 L Toe0
+    100096: Bip001 L Toe0Nub
+    100098: Bip001 L UpperArm
+    100100: Bip001 Neck
+    100102: Bip001 Pelvis
+    100104: Bip001 R Calf
+    100106: Bip001 R Clavicle
+    100108: Bip001 R Finger0
+    100110: Bip001 R Finger01
+    100112: Bip001 R Finger0Nub
+    100114: Bip001 R Finger1
+    100116: Bip001 R Finger11
+    100118: Bip001 R Finger1Nub
+    100120: Bip001 R Foot
+    100122: Bip001 R Forearm
+    100124: Bip001 R Hand
+    100126: Bip001 R Thigh
+    100128: Bip001 R Toe0
+    100130: Bip001 R Toe0Nub
+    100132: Bip001 R UpperArm
+    100134: Bip001 skirt L 01
+    100136: Bip001 skirt L 0102
+    100138: Bip001 skirt L 01Nub
+    100140: Bip001 skirt L 02
+    100142: Bip001 skirt L 0202
+    100144: Bip001 skirt L 02Nub
+    100146: Bip001 skirt L 03
+    100148: Bip001 skirt L 0302
+    100150: Bip001 skirt L 03Nub
+    100152: Bip001 skirt R 01
+    100154: Bip001 skirt R 0102
+    100156: Bip001 skirt R 01Nub
+    100158: Bip001 skirt R 02
+    100160: Bip001 skirt R 0202
+    100162: Bip001 skirt R 02Nub
+    100164: Bip001 skirt R 03
+    100166: Bip001 skirt R 0302
+    100168: Bip001 skirt R 03Nub
+    100170: Bip001 Spine
+    100172: Bip001 Spine1
+    100174: //RootNode
+    100176: Particle View 001
+    400000: 2p_body
+    400002: 2p_Cloak
+    400004: 2p_face
+    400006: 2p_feather
+    400008: 2p_fur
+    400010: 2p_hair_00
+    400012: 2p_hair_01
+    400014: 2p_hair_02
+    400016: 2p_hair_03
+    400018: 2p_hair_04
+    400020: 2p_leg
+    400022: Bip001
+    400024: Bip001 Feather L
+    400026: Bip001 Feather L02
+    400028: Bip001 Feather LNub
+    400030: Bip001 Feather R
+    400032: Bip001 Feather R02
+    400034: Bip001 Feather RNub
+    400036: Bip001 Footsteps
+    400038: Bip001 Front hair
+    400040: Bip001 Front hair02
+    400042: Bip001 Front hair03
+    400044: Bip001 Front hairNub
+    400046: Bip001 hair L
+    400048: Bip001 hair L02
+    400050: Bip001 hair L03
+    400052: Bip001 hair L04
+    400054: Bip001 hair LNub
+    400056: Bip001 hair R
+    400058: Bip001 hair R02
+    400060: Bip001 hair R03
+    400062: Bip001 hair R04
+    400064: Bip001 hair RNub
+    400066: Bip001 Head
+    400068: Bip001 HeadNub
+    400070: Bip001 L Calf
+    400072: Bip001 L Clavicle
+    400074: Bip001 L Finger0
+    400076: Bip001 L Finger01
+    400078: Bip001 L Finger0Nub
+    400080: Bip001 L Finger1
+    400082: Bip001 L Finger11
+    400084: Bip001 L Finger1Nub
+    400086: Bip001 L Foot
+    400088: Bip001 L Forearm
+    400090: Bip001 L Hand
+    400092: Bip001 L Thigh
+    400094: Bip001 L Toe0
+    400096: Bip001 L Toe0Nub
+    400098: Bip001 L UpperArm
+    400100: Bip001 Neck
+    400102: Bip001 Pelvis
+    400104: Bip001 R Calf
+    400106: Bip001 R Clavicle
+    400108: Bip001 R Finger0
+    400110: Bip001 R Finger01
+    400112: Bip001 R Finger0Nub
+    400114: Bip001 R Finger1
+    400116: Bip001 R Finger11
+    400118: Bip001 R Finger1Nub
+    400120: Bip001 R Foot
+    400122: Bip001 R Forearm
+    400124: Bip001 R Hand
+    400126: Bip001 R Thigh
+    400128: Bip001 R Toe0
+    400130: Bip001 R Toe0Nub
+    400132: Bip001 R UpperArm
+    400134: Bip001 skirt L 01
+    400136: Bip001 skirt L 0102
+    400138: Bip001 skirt L 01Nub
+    400140: Bip001 skirt L 02
+    400142: Bip001 skirt L 0202
+    400144: Bip001 skirt L 02Nub
+    400146: Bip001 skirt L 03
+    400148: Bip001 skirt L 0302
+    400150: Bip001 skirt L 03Nub
+    400152: Bip001 skirt R 01
+    400154: Bip001 skirt R 0102
+    400156: Bip001 skirt R 01Nub
+    400158: Bip001 skirt R 02
+    400160: Bip001 skirt R 0202
+    400162: Bip001 skirt R 02Nub
+    400164: Bip001 skirt R 03
+    400166: Bip001 skirt R 0302
+    400168: Bip001 skirt R 03Nub
+    400170: Bip001 Spine
+    400172: Bip001 Spine1
+    400174: //RootNode
+    400176: Particle View 001
+    2100000: 'Material #3'
+    2100002: 'Material #2'
+    4300000: 2p_face
+    4300002: 2p_feather
+    4300004: 2p_hair_00
+    4300006: 2p_hair_01
+    4300008: 2p_hair_02
+    4300010: 2p_hair_03
+    4300012: 2p_hair_04
+    4300014: 2p_fur
+    4300016: 2p_leg
+    4300018: 2p_body
+    4300020: 2p_Cloak
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: 2p_body
+    13700002: 2p_Cloak
+    13700004: 2p_face
+    13700006: 2p_feather
+    13700008: 2p_fur
+    13700010: 2p_hair_00
+    13700012: 2p_hair_01
+    13700014: 2p_hair_02
+    13700016: 2p_hair_03
+    13700018: 2p_hair_04
+    13700020: 2p_leg
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

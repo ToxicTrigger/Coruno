@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: N_Tree_Back 1
+  m_Shader: {fileID: 4800000, guid: 14f0088c48e57614abbce133f4984450, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: e4b523730a93f354791f3a4e474ffcd4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 1.67}
+    - _MainTex2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex1:
+        m_Texture: {fileID: 2800000, guid: 0a1d45bacf0f6c84a982f8f7b926bfc1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Tex2:
+        m_Texture: {fileID: 2800000, guid: 5baef9617239b944e95c18ee0f2d8e77, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 54a73c4a3cc9d9c42ac6802e3d6b43e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: df1a73877e6e817489bcdec99d204d81, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 5ab158b4ba38d754e80004951bc07e49, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: e4b523730a93f354791f3a4e474ffcd4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bias: -0.1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 1
+    - _Float1: -0.04
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _InvFade: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _Tex1_Power: 0.57
+    - _Tex2_Power: 0.37
+    - _UVSec: 0
+    - _ZWrite: 1
+    - _Zwrite: 0
+    - __dirty: 0
+    - _opacity: 0.5
+    - _rot1: 0
+    - _rot2: 0
+    - _smooth: 0
+    - _tex1U: 0
+    - _tex1V: 0
+    - _tex2U: 0
+    - _tex2V: 0
+    - _tex3U: 0
+    - _tex3V: 0
+    - _tex3pow: 0
+    m_Colors:
+    - _Color: {r: 0.74513394, g: 1.1953189, b: 1.319508, a: 0}
+    - _Color0: {r: 1, g: 1, b: 1, a: 1}
+    - _Color1: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Tex1_Tilie: {r: 2, g: 1.5, b: 0, a: 0}
+    - _Tex2_Speed: {r: 0.05, g: 0.15, b: 0, a: 0}
+    - _Tex2_Ti: {r: 5, g: 1, b: 0, a: 0}
+    - _Tex2_Tilie: {r: 10, g: 1, b: 0, a: 0}
+    - _Tex2_offset: {r: 0.8, g: 0, b: 0, a: 0}
+    - _Tex2off: {r: 0.8, g: 0, b: 0, a: 0}
+    - _Tex2offset: {r: 0.8, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 0, g: 0.53625345, b: 0.6037736, a: 0.5}
+    - _Vector0: {r: 0.8, g: 0, b: 0, a: 0}
+    - _Vector1: {r: 0, g: 1, b: 0, a: 0}
+    - _Vector2: {r: 5, g: 1, b: 0, a: 0}
+    - _emission_c: {r: 0, g: 0, b: 0, a: 0}
+    - _offset: {r: 0, g: 0, b: 0, a: 0}
+    - _offset2: {r: 0, g: 0, b: 0, a: 0}
+    - _power: {r: 0.084905684, g: 0.084905684, b: 0.084905684, a: 0}
+    - _speed: {r: 0, g: 1, b: 0, a: 0}
+    - _speedxy: {r: 0, g: 0.42, b: 0, a: 0}
+    - _tex_2speed: {r: 0, g: 0.5, b: 0, a: 0}
+    - _texture_color: {r: 1, g: 1, b: 1, a: 1}
+    - _tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _tiling2: {r: 1, g: 1, b: 0, a: 0}

@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: ae377cb3e2604a74684a50a18b5cf51d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hill_2_0
+    21300002: hill_2_1
+    21300004: hill_2_2
+    21300006: hill_2_3
+    21300008: hill_2_4
+    21300010: hill_2_5
+    21300012: hill_2_6
+    21300014: hill_2_7
+    21300016: hill_2_8
+    21300018: hill_2_9
+    21300020: hill_2_10
+    21300022: hill_2_11
+    21300024: hill_2_12
+    21300026: hill_2_13
+    21300028: hill_2_14
+    21300030: hill_2_15
+    21300032: hill_2_16
+    21300034: hill_2_17
+    21300036: hill_2_18
+    21300038: hill_2_19
+    21300040: hill_2_20
+    21300042: hill_2_21
+    21300044: hill_2_22
+    21300046: hill_2_23
+    21300048: hill_2_24
+    21300050: hill_2_25
+    21300052: hill_2_26
+    21300054: hill_2_27
+    21300056: hill_2_28
+    21300058: hill_2_29
+    21300060: hill_2_30
+    21300062: hill_2_31
+    21300064: hill_2_32
+    21300066: hill_2_33
+    21300068: hill_2_34
+    21300070: hill_2_35
+    21300072: hill_2_36
+    21300074: hill_2_37
+    21300076: hill_2_38
+    21300078: hill_2_39
+    21300080: hill_2_40
+    21300082: hill_2_41
+    21300084: hill_2_42
+    21300086: hill_2_43
+    21300088: hill_2_44
+    21300090: hill_2_45
+    21300092: hill_2_46
+    21300094: hill_2_47
+    21300096: hill_2_48
+    21300098: hill_2_49
+    21300100: hill_2_50
+    21300102: hill_2_51
+    21300104: hill_2_52
+    21300106: hill_2_53
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hill_2_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1471
+        width: 2022
+        height: 433
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be6100da3679c840bde580688ce6ae2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hill_2_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 754
+        width: 1910
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027871bb112dac5428a80bda3aee48cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f2ec8a421f989734cb470258493b2ffb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

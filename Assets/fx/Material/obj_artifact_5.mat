@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: obj_artifact_5
+  m_Shader: {fileID: 4800000, guid: 8bb890cd4b50a6f48970420115c6d3bb, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3003
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: af6f70ddc2d592f43aeeb5b1d4c7a714, type: 3}
+        m_Scale: {x: 0.34, y: 0.16}
+        m_Offset: {x: 0.66, y: 0.19}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 53281ef8d73671544aa28afc81044d75, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _emosion:
+        m_Texture: {fileID: 2800000, guid: aade19effbcb6394fa06e0c727c7aa00, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _nomal:
+        m_Texture: {fileID: 2800000, guid: e724badb53e419843b3d1e95ba37bfeb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.44
+    - __dirty: 0
+    - _nomal_power: -0.75
+    - _smooth: 0.17
+    m_Colors:
+    - _emsion: {r: 0.028301895, g: 0.028301895, b: 0.028301895, a: 0}
+    - _tex_color: {r: 1, g: 1, b: 1, a: 0}

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: down_plat
+  m_Shader: {fileID: 4800000, guid: 8bb890cd4b50a6f48970420115c6d3bb, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _USE_2EM_ON
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 520ddfad36d7f72469e0d5aeddf0f517, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: e6b1ac900b6adc14894e7f4ff57b67b9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 7ed56daa328f4d948b20b8a9512482f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _emosion:
+        m_Texture: {fileID: 2800000, guid: 26875743eaa5f514cb2d2b3919047911, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _mask:
+        m_Texture: {fileID: 2800000, guid: 5228a04ef529d2641937cab585cc1a02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _noise:
+        m_Texture: {fileID: 2800000, guid: a8c8f3879983aa643b7e058f8fc14498, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.54
+    - _Float0: 0.1
+    - _Max: 0.52
+    - _Move: 0.05
+    - _Tex_Power: 0.18
+    - _Timeing: 0.49
+    - __dirty: 0
+    - _min: 0.36
+    - _mix_power: 1.65
+    - _move: 4.52
+    - _niose_power: 0.1
+    - _nomal_power: 0
+    - _oneMius: 0
+    - _smooth: 0
+    - _sub_power: 0.18
+    - _timing: 3.29
+    - _use_2em: 1
+    - _use_Lerp: 0
+    - _use_uorv: 0
+    - _wind: 0.1
+    - _world: 10
+    m_Colors:
+    - _Color: {r: 2.670157, g: 2.5942125, b: 0.113355674, a: 1}
+    - _Color0: {r: 0.8396226, g: 0.8396226, b: 0.8396226, a: 0}
+    - _Color1: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
+    - _Color2: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 0}
+    - _Lerp_color: {r: 0.007564964, g: 0.009667839, b: 0.01886791, a: 0}
+    - _emsion: {r: 0, g: 1.1369168, b: 1.4142135, a: 0}
+    - _main_speed: {r: 2, g: 0, b: 0, a: 0}
+    - _noise_speed: {r: 3, g: 0, b: 0, a: 0}
+    - _tex_color: {r: 1, g: 1, b: 1, a: 0}

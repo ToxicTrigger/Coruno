@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: simple_wave
+  m_Shader: {fileID: 4800000, guid: b74885095d394774dad6eb5f890ffb55, type: 3}
+  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2b54062eb814d204b9c39752c50d4263, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 2b54062eb814d204b9c39752c50d4263, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 9fbef4b79ca3b784ba023cb1331520d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 2800000, guid: 7ed56daa328f4d948b20b8a9512482f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _emosion:
+        m_Texture: {fileID: 2800000, guid: 7b6be8be7c5eb6346a45f2720c5cbb48, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.54
+    - _Float0: 0.1
+    - _Move: 0.1
+    - _Timeing: 0.81
+    - __dirty: 0
+    - _move: 4.52
+    - _nomal_power: 0
+    - _smooth: 0
+    - _timing: 3.29
+    - _wind: 0.1
+    - _world: 10
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _emission_c: {r: 1.7411011, g: 1.7411011, b: 1.7411011, a: 0}
+    - _emsion: {r: 2, g: 2, b: 2, a: 0}
+    - _tex_color: {r: 0.23113209, g: 1, b: 0.75394803, a: 0}
+    - _texture_color: {r: 1, g: 1, b: 1, a: 1}
